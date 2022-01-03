@@ -25,7 +25,7 @@ _________________________
     
 _____________________________
 
-![Alt text](./client/public/img/screenshot.jpg "Screenshot")
+![Alt text](/client/public/img/screenshot.jpg "Screenshot")
 
   
 💻 Made by Ch.Hamdi. Free to use 

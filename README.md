@@ -23,9 +23,7 @@ _________________________
 * Create a `.env` file within the server URL :
   - REACT_APP_API_URL=http://localhost:5000/ `your server url`
     
-_____________________________
 
-![Alt text](/client/public/img/screenshot.jpg "Screenshot")
 
   
 💻 Made by Ch.Hamdi. Free to use 
